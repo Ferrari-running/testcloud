@@ -1,2 +1,2 @@
-profile:
-  version1.0
+server:
+  port: 7001
