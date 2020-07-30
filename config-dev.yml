@@ -1,2 +1,3 @@
-config: 12
+server:
+  port: 7001
   
